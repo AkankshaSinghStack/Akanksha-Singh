@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha Singh</h1>
-<h3 align="center">A passionate full stack developer by professional and creates and builds software and applications using programming languages and tools.I have a strong foundation in software development and enjoy the process of building and improving software."</h3>
+<h3 align="center">A passionate full stack developer by professional and creates and builds software and applications using programming languages and tools. I have a strong foundation in software development and enjoy the process of building and improving software."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshasinghstack&label=Profile%20views&color=0e75b6&style=flat" alt="akankshasinghstack" /> </p>
 
