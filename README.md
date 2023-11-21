@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Smart Buddy**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I have good understanding of Node.js and React.js.
 
 - 💬 Ask me about **MERN, Java, Spring MVC, Javascript.**
 
